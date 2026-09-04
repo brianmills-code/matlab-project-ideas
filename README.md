@@ -26,6 +26,11 @@ A progression of MATLAB project ideas organized by difficulty and application ar
 - [Temperature Trend and Anomaly Analysis](intermediate/01-temperature-analysis.md): data import, missing values, moving averages, and anomaly detection.
 - [Signal Frequency Analyzer](intermediate/02-signal-frequency-analysis.md): FFT spectra, dominant-frequency estimation, filtering, and RMS error.
 
+### Advanced
+
+- [Constrained Dynamic Model Calibration](advanced/01-model-calibration.md): parameter estimation, residual analysis, bounded optimization, and uncertainty extensions.
+- [Constrained Model Predictive Control](advanced/02-model-predictive-control.md): finite-horizon prediction, actuator limits, controller comparison, and performance metrics.
+
 ## Project checklist
 
 Define the problem, identify inputs and outputs, establish a baseline, test edge cases, visualize results, and explain limitations. Record MATLAB version and toolbox requirements in each project folder.
