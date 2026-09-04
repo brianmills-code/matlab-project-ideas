@@ -14,6 +14,18 @@ A progression of MATLAB project ideas organized by difficulty and application ar
 | Control Systems | Dynamic models, feedback, and response analysis |
 | Machine Learning | Features, training, evaluation, and interpretation |
 
+## Complete project briefs
+
+### Beginner
+
+- [Gradebook Analyzer](beginner/01-gradebook-analyzer.md): weighted grades, tables, logical indexing, and plots.
+- [Projectile Motion Simulator](beginner/02-projectile-motion.md): parametric motion, unit conversion, and trajectory visualization.
+
+### Intermediate
+
+- [Temperature Trend and Anomaly Analysis](intermediate/01-temperature-analysis.md): data import, missing values, moving averages, and anomaly detection.
+- [Signal Frequency Analyzer](intermediate/02-signal-frequency-analysis.md): FFT spectra, dominant-frequency estimation, filtering, and RMS error.
+
 ## Project checklist
 
 Define the problem, identify inputs and outputs, establish a baseline, test edge cases, visualize results, and explain limitations. Record MATLAB version and toolbox requirements in each project folder.
