@@ -51,6 +51,16 @@ A progression of MATLAB project ideas organized by difficulty and application ar
 - [Document Scanner and Perspective Correction](image-processing/01-document-scanner.md): edge detection, morphology, projective transformation, and adaptive thresholding.
 - [Texture Segmentation and Region Measurement](image-processing/02-texture-segmentation.md): local features, clustering, morphology, connected components, and segmentation metrics.
 
+### Control Systems
+
+- [DC-Motor Speed Control with PID](control-systems/01-dc-motor-pid-control.md): plant modeling, PID tuning, disturbance rejection, saturation, and robustness.
+- [Inverted Pendulum with State Feedback](control-systems/02-inverted-pendulum-lqr.md): controllability, pole placement, LQR, observers, and actuator limits.
+
+### Machine Learning
+
+- [Breast-Cancer Diagnosis Classification](machine-learning/01-breast-cancer-classification.md): preprocessing, stratified validation, model comparison, ROC-AUC, and calibration.
+- [Bike-Sharing Demand Regression](machine-learning/02-bike-sharing-regression.md): time-aware splitting, feature engineering, regression ensembles, and forecasting metrics.
+
 ## Project checklist
 
 Define the problem, identify inputs and outputs, establish a baseline, test edge cases, visualize results, and explain limitations. Record MATLAB version and toolbox requirements in each project folder.
