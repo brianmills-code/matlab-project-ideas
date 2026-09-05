@@ -41,6 +41,16 @@ A progression of MATLAB project ideas organized by difficulty and application ar
 - [Wine Quality Exploration](data-analysis/01-wine-quality-exploration.md): public UCI data, descriptive statistics, correlations, grouped summaries, and visualization.
 - [Daily Climate Trend Analysis](data-analysis/02-climate-trend-analysis.md): NOAA data, date handling, aggregation, regression, and uncertainty.
 
+### Signal Processing
+
+- [Audio Denoising and Spectral Evaluation](signal-processing/01-audio-denoising.md): FFT analysis, filter design, spectrograms, audio export, and quality evaluation.
+- [Bearing-Fault Feature Analysis](signal-processing/02-bearing-fault-analysis.md): vibration features, envelope analysis, spectrograms, and condition comparison.
+
+### Image Processing
+
+- [Document Scanner and Perspective Correction](image-processing/01-document-scanner.md): edge detection, morphology, projective transformation, and adaptive thresholding.
+- [Texture Segmentation and Region Measurement](image-processing/02-texture-segmentation.md): local features, clustering, morphology, connected components, and segmentation metrics.
+
 ## Project checklist
 
 Define the problem, identify inputs and outputs, establish a baseline, test edge cases, visualize results, and explain limitations. Record MATLAB version and toolbox requirements in each project folder.
