@@ -31,6 +31,16 @@ A progression of MATLAB project ideas organized by difficulty and application ar
 - [Constrained Dynamic Model Calibration](advanced/01-model-calibration.md): parameter estimation, residual analysis, bounded optimization, and uncertainty extensions.
 - [Constrained Model Predictive Control](advanced/02-model-predictive-control.md): finite-horizon prediction, actuator limits, controller comparison, and performance metrics.
 
+### Engineering
+
+- [One-Dimensional Heat Diffusion](engineering/01-heat-diffusion.md): finite differences, stability analysis, convergence, and boundary conditions.
+- [RC Circuit Response and Design](engineering/02-rc-circuit-design.md): transient response, parameter estimation, component design, and tolerance analysis.
+
+### Data Analysis
+
+- [Wine Quality Exploration](data-analysis/01-wine-quality-exploration.md): public UCI data, descriptive statistics, correlations, grouped summaries, and visualization.
+- [Daily Climate Trend Analysis](data-analysis/02-climate-trend-analysis.md): NOAA data, date handling, aggregation, regression, and uncertainty.
+
 ## Project checklist
 
 Define the problem, identify inputs and outputs, establish a baseline, test edge cases, visualize results, and explain limitations. Record MATLAB version and toolbox requirements in each project folder.
