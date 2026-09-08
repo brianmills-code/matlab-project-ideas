@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/repository-banner.png" alt="MATLAB Project Ideas banner" width="100%">
+</p>
+
 # MATLAB Project Ideas
 
 A structured collection of **18 complete MATLAB project briefs** organized by difficulty and application area. Every brief defines a concrete objective, required inputs, MATLAB implementation guidance, validation criteria, and extension ideas. The collection is designed to move from basic programming toward engineering analysis, signal and image processing, control, and machine learning.
